@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Braden Windsor
+ * @date 2023-11-17
+ * @brief Functions for the employees
+ * 
+ * Contains the function meat
+ */
+
 #include "Employee.h"
 #include <iostream>
 

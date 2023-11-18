@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Braden Windsor
+ * @date 2023-11-17
+ * @brief .cpp file
+ * 
+ * Contains function meat for officer.h
+ */
+
 #include "Officer.h"
 #include <iostream>
 

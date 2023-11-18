@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Braden Windsor
+ * @date 2023-11-17
+ * @brief .cpp file
+ * 
+ * Contains function meat for Supervisor.h
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 
