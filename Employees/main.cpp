@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Braden Windsor
+ * @date 2023-11-17
+ * @brief main file
+ * 
+ * Contains the calls for the functions
+ */
+
 
 #include <iostream>
 #include "Employee.h"
